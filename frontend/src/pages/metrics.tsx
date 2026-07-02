@@ -1,12 +1,12 @@
 
-function Profile(){
+function Metrics(){
     return(
     <>
       <h1 className="text-3xl font-bold">
-        Profile
+        Metrics
       </h1>
     </>
     );
 }
 
-export default Profile;
+export default Metrics;
